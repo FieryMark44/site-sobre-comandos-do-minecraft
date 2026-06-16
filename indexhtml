@@ -2,9 +2,24 @@
 <html lang= ”pt-br”>
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" 
+    content="width=device-width, initial-scale=1.0">
     <title>MINECRAFT</title>
     <style>
+        header{
+            background-color: #72c286;
+            color:black;
+            text-align:center;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        main{
+            background-color:#503821 ;
+            color:black;
+            text-align:center;
+            max-width: 800px;
+            margin: 0 auto;
+        }
         body {
             font-family: Arial, sans-serif;
             text-align: center;
