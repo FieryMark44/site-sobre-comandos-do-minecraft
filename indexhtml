@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang= ”pt-br”>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MINECRAFT</title>
+   <head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>MINECRAFT</title>
     <style>
         header{
             background-color: #72c286;
@@ -27,18 +27,17 @@
         }
         h1 { color: #31008b; }
     </style>
-</head>
-<body>
+   </head>
+   <body>
     <header>
-    <h1>COMANDOS DO MINECRAFT</h1>
-    <p>Aprenda o básico sobre os comandos do minecraft</p>
-    <p>Desde o /locate até o instantmine!</p>
+        <h1>COMANDOS DO MINECRAFT</h1>
+        <p>Aprenda o básico sobre os comandos do minecraft</p>
+        <p>Desde o /locate até o instantmine!</p>
     </header>
 
     <main>
-    <h2>Comandosnwowowoowowow</h2>
-    <p>cpomamdp comano c</p>
+        <h2>Comandosnwowowoowowow</h2>
+        <p>cpomamdp comano c</p>
     </main>
-
-</body>
+   </body>
 </html>
